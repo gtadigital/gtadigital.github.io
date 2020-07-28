@@ -1,7 +1,7 @@
 
-ProfileParser (c) by Institute for the History and Theory of Architecture, gta digital, ETH Zurich
+Documentation(c) by Institute for the History and Theory of Architecture, gta digital, ETH Zurich
 
-ProfileParser is licensed under a
+Documentation is licensed under a
 Creative Commons Attribution-ShareAlike 4.0 International License.
 
 
